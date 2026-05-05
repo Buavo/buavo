@@ -57,12 +57,6 @@ I'm a developer, hacker, and creator passionate about building tools that give p
 - Open Source Development
 - AI & Local Language Models
 
-## 📊 GitHub Stats
-
-![Buavo Koza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buavo&show_icons=true&theme=dark&title_color=00AA00&icon_color=00AA00&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buavo&layout=compact&theme=dark&title_color=00AA00&text_color=ffffff&bg_color=0d1117)
-
 ## 📬 Connect
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phantomlinux) (**Coming Soon**)
