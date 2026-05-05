@@ -59,9 +59,9 @@ I'm a developer, hacker, and creator passionate about building tools that give p
 
 ## 📊 GitHub Stats
 
-![Buavo Koza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=00AA00&icon_color=00AA00&text_color=ffffff&bg_color=0d1117)
+![Buavo Koza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buavo&show_icons=true&theme=dark&title_color=00AA00&icon_color=00AA00&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=00AA00&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buavo&layout=compact&theme=dark&title_color=00AA00&text_color=ffffff&bg_color=0d1117)
 
 ## 📬 Connect
 
