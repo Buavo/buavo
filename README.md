@@ -16,7 +16,7 @@ I'm a developer, hacker, and creator passionate about building tools that give p
 - 🔒 Professional security toolkit — Metasploit, Wireshark, Nmap, and more
 - 🛡️ Privacy first — Tor, ProxyChains, KeePassXC built in
 - ⚡ PhantomBoost Extreme Mode — exclusive one click overclock feature
-- 🤖 PhantomAI — locally hosted AI assistant, fully private
+- 🤖 PhantomAI — a Completely Uncensored locally hosted AI assistant
 
 ## 🛠️ Skills & Tools
 
@@ -65,7 +65,7 @@ I'm a developer, hacker, and creator passionate about building tools that give p
 
 ## 📬 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phantomlinux)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phantomlinux) (**Coming Soon**)
 
 ---
 
